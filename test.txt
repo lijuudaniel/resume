@@ -1,0 +1,30 @@
+<hr class="d-print-none"/>
+<div class="work-experience-section px-3 px-lg-4">
+  <h2 class="h3 mb-4">Work Experience</h2>
+  <div class="timeline">
+    <div class="timeline-card timeline-card-primary card shadow-sm">
+      <div class="card-body">
+        <div class="h5 mb-1">Content Writer <span class="text-muted h6">at G4Gadget.in</span></div>
+        <div class="text-muted text-small mb-2">September, 2019 - December, 2019</div>
+      </div>
+    </div>
+
+<hr class="d-print-none"/>
+<div class="page-break"></div>
+<div class="education-section px-3 px-lg-4 pb-4">
+  <h2 class="h3 mb-4">Education</h2>
+  <div class="timeline">
+    <div class="timeline-card timeline-card-success card shadow-sm">
+      <div class="card-body">
+        <div class="h5 mb-1">Bachelor of Engineering in Computer Science <span class="text-muted h6">from Sri Krishna College of Engineering and Technology</span></div>
+        <div class="text-muted text-small mb-2">2019 - 2023</div>
+      </div>
+    </div>
+    <div class="timeline-card timeline-card-success card shadow-sm">
+      <div class="card-body">
+        <div class="h5 mb-1">Higher Secondary Certificate<span class="text-muted h6"> from Lisieux Matriculation Higher Secondary School</span></div>
+        <div class="text-muted text-small mb-2">2018 - 2019</div>
+      </div>
+    </div>
+  </div>
+</div>
